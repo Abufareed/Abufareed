@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img align= "center" src=""C:\Users\loned\OneDrive\Desktop\GITHUB\BACKGROUND.png" />
 </p>
 
