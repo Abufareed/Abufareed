@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java , Python and MS Excel**
 
-- 📫 How to reach me **fareedfitz@gmial.com**
+- 📫 How to reach me **fareedfitz@gmail.com**
 
 - 📄 Know about my experiences [https://publuu.com/flip-book/275136/644113](https://publuu.com/flip-book/275136/644113)
 
