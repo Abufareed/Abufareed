@@ -1,4 +1,4 @@
-![logo](https://github.com/Abufareed/Abufareed/blob/main/BACKGROUND.png)
+![logo](https://github.com/Abufareed/Abufareed/blob/main/Mohamed%20Abu%20Fareed%20M.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Abu Fareed</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
