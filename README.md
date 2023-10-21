@@ -1,8 +1,6 @@
 <p align="center">
-  <img src=""C:\Users\loned\OneDrive\Desktop\GITHUB\BACKGROUND.png" />
+  <img align= "center" src=""C:\Users\loned\OneDrive\Desktop\GITHUB\BACKGROUND.png" />
 </p>
-
-![logo](https://github.com/Abufareed/Abufareed/blob/main/BACKGROUND.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Abu Fareed</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
