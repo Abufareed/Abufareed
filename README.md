@@ -1,5 +1,5 @@
-<p>
-  <img align= "center" src=""C:\Users\loned\OneDrive\Desktop\GITHUB\BACKGROUND.png" />
+<p align="center" >
+  <img src=""C:\Users\loned\OneDrive\Desktop\GITHUB\BACKGROUND.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Abu Fareed</h1>
